@@ -1,0 +1,14 @@
+# Foundry
+out/
+cache/
+forge-cache/
+broadcast/
+
+# Python
+__pycache__/
+*.pyc
+
+# Local RPC fork data
+.anvil/
+.rpc-cache/
+lib/
